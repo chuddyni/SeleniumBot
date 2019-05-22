@@ -1,2 +1,3 @@
-# SeleniumBot
-Simple usage Selenium for send messages in Messenger.com (Facebook)
+# Selenium Bot
+
+Prosta aplikacja wykorzystująca Selenium do odpisywania na komendy na czacie grupowym. 
